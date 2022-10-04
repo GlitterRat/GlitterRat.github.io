@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://glitterrat.github.io</id>
     <title>GlitterRat.Blog</title>
-    <updated>2022-09-22T13:46:30.534Z</updated>
+    <updated>2022-10-04T13:40:17.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://glitterrat.github.io"/>
     <link rel="self" href="https://glitterrat.github.io/atom.xml"/>
@@ -11,13 +11,12 @@
     <icon>https://glitterrat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, GlitterRat.Blog</rights>
     <entry>
-        <title type="html"><![CDATA[测试]]></title>
+        <title type="html"><![CDATA[先给自己一个小目标]]></title>
         <id>https://glitterrat.github.io/post/ce-shi/</id>
         <link href="https://glitterrat.github.io/post/ce-shi/">
         </link>
         <updated>2022-09-22T13:12:12.000Z</updated>
-        <content type="html"><![CDATA[<p>救！！！！！！！！！！！！！<br>
-救</p>
+        <content type="html"><![CDATA[<p>到学校就开始更新</p>
 ]]></content>
     </entry>
 </feed>
