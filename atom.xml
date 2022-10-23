@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://glitterrat.github.io</id>
     <title>GlitterRat.Blog</title>
-    <updated>2022-10-23T16:58:45.095Z</updated>
+    <updated>2022-10-23T17:01:39.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://glitterrat.github.io"/>
     <link rel="self" href="https://glitterrat.github.io/atom.xml"/>
@@ -11,12 +11,15 @@
     <icon>https://glitterrat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, GlitterRat.Blog</rights>
     <entry>
-        <title type="html"><![CDATA[about]]></title>
+        <title type="html"><![CDATA[Something about my internship]]></title>
         <id>https://glitterrat.github.io/post/e-wo-que-ren/</id>
         <link href="https://glitterrat.github.io/post/e-wo-que-ren/">
         </link>
         <updated>2022-10-23T16:58:22.000Z</updated>
-        <content type="html"><![CDATA[<p>about</p>
+        <content type="html"><![CDATA[<p>别骂了别骂了。<br>
+前一段时间乱糟糟的。<br>
+本来想今天晚上写这篇的，搞来搞去又这么晚了哈哈哈。<br>
+后面几天慢慢写吧</p>
 ]]></content>
     </entry>
     <entry>
