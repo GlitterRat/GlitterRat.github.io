@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>GlitterRat.Blog</title>
+<title>关于我的科学上网姿势 | GlitterRat.Blog</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,14 +12,22 @@
 <link rel="stylesheet" href="https://glitterrat.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="Keep Wondering">
-    
+    <meta name="description" content="不知道是不是最近20da？原来的节点被封麻了哈哈哈哈。所以重新找了个节点share
+亲测延迟低，但为什么带宽低就不知道了。所以想要看ph的可以绕路了哈哈哈哈，正常上github的push和pull的操作是没有影响的。
+https://www..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
@@ -89,57 +97,38 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://glitterrat.github.io/post/guan-yu-wo-de-ke-xue-shang-wang-zi-shi/">
-                  <h2 class="post-title">关于我的科学上网姿势</h2>
-                </a>
-                <div class="post-date">
-                  2022-11-07
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://glitterrat.github.io/post/e-wo-que-ren/">
-                  <h2 class="post-title">Something about my internship</h2>
-                </a>
-                <div class="post-date">
-                  2022-10-24
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://glitterrat.github.io/post/ce-shi/">
-                  <h2 class="post-title">先给自己一个小目标</h2>
-                </a>
-                <div class="post-date">
-                  2022-09-22
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
+          <div class="post-detail">
+            <h2 class="post-title">关于我的科学上网姿势</h2>
+            <div class="post-date">2022-11-07</div>
+            
+            <div class="post-content" v-pre>
+              <p>不知道是不是最近20da？原来的节点被封麻了哈哈哈哈。所以重新找了个节点share<br>
+亲测延迟低，但为什么带宽低就不知道了。所以想要看ph的可以绕路了哈哈哈哈，正常上github的push和pull的操作是没有影响的。<br>
+https://www.cfmem.com/search/label/free<br>
+https://getafreenode.com/node.php?uuid=CD827C4F-DA27-AB5A-F11E-F94ADE8189AF&amp;inviter=99695EBD-750C-996D-7140-A3E941A18168 (这个比较不稳)</p>
 
-          <div class="pagination-container">
-  
-  
-</div>
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://glitterrat.github.io/post/e-wo-que-ren/">
+                  <h3 class="post-title">
+                    Something about my internship
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -160,6 +149,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'dacdf7e0bdb22440f166',
+        clientSecret: 'cdca4d0d0a1c36e55533877a9bc0c570ad161d6e',
+        repo: 'glitterrat.github.io',
+        owner: 'glitterrat',
+        admin: ['glitterrat'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

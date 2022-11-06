@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://glitterrat.github.io</id>
     <title>GlitterRat.Blog</title>
-    <updated>2022-11-06T16:47:06.099Z</updated>
+    <updated>2022-11-06T16:52:55.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://glitterrat.github.io"/>
     <link rel="self" href="https://glitterrat.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://glitterrat.github.io/images/avatar.png</logo>
     <icon>https://glitterrat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, GlitterRat.Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我的科学上网姿势]]></title>
+        <id>https://glitterrat.github.io/post/guan-yu-wo-de-ke-xue-shang-wang-zi-shi/</id>
+        <link href="https://glitterrat.github.io/post/guan-yu-wo-de-ke-xue-shang-wang-zi-shi/">
+        </link>
+        <updated>2022-11-06T16:49:18.000Z</updated>
+        <content type="html"><![CDATA[<p>不知道是不是最近20da？原来的节点被封麻了哈哈哈哈。所以重新找了个节点share<br>
+亲测延迟低，但为什么带宽低就不知道了。所以想要看ph的可以绕路了哈哈哈哈，正常上github的push和pull的操作是没有影响的。<br>
+https://www.cfmem.com/search/label/free<br>
+https://getafreenode.com/node.php?uuid=CD827C4F-DA27-AB5A-F11E-F94ADE8189AF&amp;inviter=99695EBD-750C-996D-7140-A3E941A18168 (这个比较不稳)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Something about my internship]]></title>
         <id>https://glitterrat.github.io/post/e-wo-que-ren/</id>
